@@ -29,6 +29,8 @@ body {
 }
 .about__row {
     display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
     font-size: 0;
     margin: 0px -15px;
 }
